@@ -1,0 +1,15 @@
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\bin\Debug\net6.0\Lab_17-18_OOP.exe
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\bin\Debug\net6.0\Lab_17-18_OOP.deps.json
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\bin\Debug\net6.0\Lab_17-18_OOP.runtimeconfig.json
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\bin\Debug\net6.0\Lab_17-18_OOP.dll
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\bin\Debug\net6.0\Lab_17-18_OOP.pdb
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\Lab_17-18_OOP.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\Lab_17-18_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\Lab_17-18_OOP.AssemblyInfoInputs.cache
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\Lab_17-18_OOP.AssemblyInfo.cs
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\Lab_17-18_OOP.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\Lab_17-18_OOP.dll
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\refint\Lab_17-18_OOP.dll
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\Lab_17-18_OOP.pdb
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\Lab_17-18_OOP.genruntimeconfig.cache
+D:\БGTУ\3 сем\ООП\LAB17-18\Lab_17-18_OOP\Lab_17-18_OOP\obj\Debug\net6.0\ref\Lab_17-18_OOP.dll
