@@ -1,0 +1,8 @@
+D:\БGTУ\3 сем\ООП\LAB10\bin\Debug\LAB10.exe.config
+D:\БGTУ\3 сем\ООП\LAB10\bin\Debug\LAB10.exe
+D:\БGTУ\3 сем\ООП\LAB10\bin\Debug\LAB10.pdb
+D:\БGTУ\3 сем\ООП\LAB10\obj\Debug\LAB10.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB10\obj\Debug\LAB10.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB10\obj\Debug\LAB10.exe
+D:\БGTУ\3 сем\ООП\LAB10\obj\Debug\LAB10.pdb
