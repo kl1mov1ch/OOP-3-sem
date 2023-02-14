@@ -1,0 +1,27 @@
+Список папок:
+$RECYCLE.BIN
+Dawnload
+Download
+English
+Epam
+Epic games
+git-demo
+KAS-2022.0
+more
+msdownld.tmp
+NJV-2019-CS-master
+NJV-2019-CS-master (1)
+SDK
+Steam
+System Volume Information
+Visual Cash
+Visual Sudio
+VS code
+Wallpaper
+Windows Kits
+БGTУ
+Список файлов:
+DumpStack.log.tmp
+NJV-2019-CS-master (1).zip
+pagefile.sys
+SAE2019-master.zip
