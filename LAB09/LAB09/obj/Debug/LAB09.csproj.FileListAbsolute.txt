@@ -1,0 +1,8 @@
+D:\БGTУ\3 сем\ООП\LAB09\LAB09\bin\Debug\LAB09.exe.config
+D:\БGTУ\3 сем\ООП\LAB09\LAB09\bin\Debug\LAB09.exe
+D:\БGTУ\3 сем\ООП\LAB09\LAB09\bin\Debug\LAB09.pdb
+D:\БGTУ\3 сем\ООП\LAB09\LAB09\obj\Debug\LAB09.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB09\LAB09\obj\Debug\LAB09.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB09\LAB09\obj\Debug\LAB09.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB09\LAB09\obj\Debug\LAB09.exe
+D:\БGTУ\3 сем\ООП\LAB09\LAB09\obj\Debug\LAB09.pdb
