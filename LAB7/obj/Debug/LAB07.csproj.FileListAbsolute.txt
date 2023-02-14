@@ -1,0 +1,11 @@
+D:\БGTУ\3 сем\ООП\LAB7\bin\Debug\LAB03.exe.config
+D:\БGTУ\3 сем\ООП\LAB7\bin\Debug\LAB03.exe
+D:\БGTУ\3 сем\ООП\LAB7\bin\Debug\LAB03.pdb
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB07.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB07.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB07.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB03.exe
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB03.pdb
+D:\БGTУ\3 сем\ООП\LAB7\bin\Debug\Newtonsoft.Json.dll
+D:\БGTУ\3 сем\ООП\LAB7\bin\Debug\Newtonsoft.Json.xml
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB07.csproj.CopyComplete

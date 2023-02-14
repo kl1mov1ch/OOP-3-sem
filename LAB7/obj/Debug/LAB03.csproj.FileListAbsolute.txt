@@ -1,0 +1,16 @@
+D:\БGTУ\3 сем\ООП\LAB03\bin\Debug\LAB03.exe.config
+D:\БGTУ\3 сем\ООП\LAB03\bin\Debug\LAB03.exe
+D:\БGTУ\3 сем\ООП\LAB03\bin\Debug\LAB03.pdb
+D:\БGTУ\3 сем\ООП\LAB03\obj\Debug\LAB03.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB03\obj\Debug\LAB03.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB03\obj\Debug\LAB03.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB03\obj\Debug\LAB03.exe
+D:\БGTУ\3 сем\ООП\LAB03\obj\Debug\LAB03.pdb
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB03.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB03.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB03.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB03.exe
+D:\БGTУ\3 сем\ООП\LAB7\obj\Debug\LAB03.pdb
+D:\БGTУ\3 сем\ООП\LAB7\bin\Debug\LAB03.exe.config
+D:\БGTУ\3 сем\ООП\LAB7\bin\Debug\LAB03.exe
+D:\БGTУ\3 сем\ООП\LAB7\bin\Debug\LAB03.pdb
