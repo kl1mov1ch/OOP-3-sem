@@ -1,0 +1,16 @@
+D:\БGTУ\3 сем\ООП\LAB_1\LAB_1\bin\Debug\LAB_1.exe.config
+D:\БGTУ\3 сем\ООП\LAB_1\LAB_1\bin\Debug\LAB_1.exe
+D:\БGTУ\3 сем\ООП\LAB_1\LAB_1\bin\Debug\LAB_1.pdb
+D:\БGTУ\3 сем\ООП\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB_1\LAB_1\obj\Debug\LAB_1.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB_1\LAB_1\obj\Debug\LAB_1.exe
+D:\БGTУ\3 сем\ООП\LAB_1\LAB_1\obj\Debug\LAB_1.pdb
+D:\БGTУ\3 сем\ООП\LAB1\LAB_1\bin\Debug\LAB_1.exe.config
+D:\БGTУ\3 сем\ООП\LAB1\LAB_1\bin\Debug\LAB_1.exe
+D:\БGTУ\3 сем\ООП\LAB1\LAB_1\bin\Debug\LAB_1.pdb
+D:\БGTУ\3 сем\ООП\LAB1\LAB_1\obj\Debug\LAB_1.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB1\LAB_1\obj\Debug\LAB_1.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB1\LAB_1\obj\Debug\LAB_1.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB1\LAB_1\obj\Debug\LAB_1.exe
+D:\БGTУ\3 сем\ООП\LAB1\LAB_1\obj\Debug\LAB_1.pdb
