@@ -1,0 +1,8 @@
+D:\БGTУ\3 сем\ООП\LAB_2\LAB_2\obj\Debug\LAB_2.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB_2\LAB_2\obj\Debug\LAB_2.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB_2\LAB_2\obj\Debug\LAB_2.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB_2\LAB_2\bin\Debug\LAB_2.exe.config
+D:\БGTУ\3 сем\ООП\LAB_2\LAB_2\bin\Debug\LAB_2.exe
+D:\БGTУ\3 сем\ООП\LAB_2\LAB_2\bin\Debug\LAB_2.pdb
+D:\БGTУ\3 сем\ООП\LAB_2\LAB_2\obj\Debug\LAB_2.exe
+D:\БGTУ\3 сем\ООП\LAB_2\LAB_2\obj\Debug\LAB_2.pdb
