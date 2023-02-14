@@ -1,0 +1,15 @@
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\bin\Debug\net6.0\Lab_19_20_OOP.exe
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\bin\Debug\net6.0\Lab_19_20_OOP.deps.json
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\bin\Debug\net6.0\Lab_19_20_OOP.runtimeconfig.json
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\bin\Debug\net6.0\Lab_19_20_OOP.dll
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\bin\Debug\net6.0\Lab_19_20_OOP.pdb
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\Lab_19_20_OOP.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\Lab_19_20_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\Lab_19_20_OOP.AssemblyInfoInputs.cache
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\Lab_19_20_OOP.AssemblyInfo.cs
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\Lab_19_20_OOP.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\Lab_19_20_OOP.dll
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\refint\Lab_19_20_OOP.dll
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\Lab_19_20_OOP.pdb
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\Lab_19_20_OOP.genruntimeconfig.cache
+D:\БGTУ\3 сем\ООП\LAB19-20\Lab_19_20_OOP\Lab_19_20_OOP\obj\Debug\net6.0\ref\Lab_19_20_OOP.dll
