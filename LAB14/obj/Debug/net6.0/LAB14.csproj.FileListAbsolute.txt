@@ -1,0 +1,30 @@
+D:\LAB14\obj\Debug\net6.0\LAB14.csproj.AssemblyReference.cache
+D:\LAB14\obj\Debug\net6.0\LAB14.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB14\obj\Debug\net6.0\LAB14.AssemblyInfoInputs.cache
+D:\LAB14\obj\Debug\net6.0\LAB14.AssemblyInfo.cs
+D:\LAB14\obj\Debug\net6.0\LAB14.csproj.CoreCompileInputs.cache
+D:\LAB14\bin\Debug\net6.0\LAB14.exe
+D:\LAB14\bin\Debug\net6.0\LAB14.deps.json
+D:\LAB14\bin\Debug\net6.0\LAB14.runtimeconfig.json
+D:\LAB14\bin\Debug\net6.0\LAB14.dll
+D:\LAB14\bin\Debug\net6.0\LAB14.pdb
+D:\LAB14\obj\Debug\net6.0\LAB14.dll
+D:\LAB14\obj\Debug\net6.0\refint\LAB14.dll
+D:\LAB14\obj\Debug\net6.0\LAB14.pdb
+D:\LAB14\obj\Debug\net6.0\LAB14.genruntimeconfig.cache
+D:\LAB14\obj\Debug\net6.0\ref\LAB14.dll
+D:\БGTУ\3 сем\ООП\LAB14\bin\Debug\net6.0\LAB14.exe
+D:\БGTУ\3 сем\ООП\LAB14\bin\Debug\net6.0\LAB14.deps.json
+D:\БGTУ\3 сем\ООП\LAB14\bin\Debug\net6.0\LAB14.runtimeconfig.json
+D:\БGTУ\3 сем\ООП\LAB14\bin\Debug\net6.0\LAB14.dll
+D:\БGTУ\3 сем\ООП\LAB14\bin\Debug\net6.0\LAB14.pdb
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\LAB14.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\LAB14.GeneratedMSBuildEditorConfig.editorconfig
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\LAB14.AssemblyInfoInputs.cache
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\LAB14.AssemblyInfo.cs
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\LAB14.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\LAB14.dll
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\refint\LAB14.dll
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\LAB14.pdb
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\LAB14.genruntimeconfig.cache
+D:\БGTУ\3 сем\ООП\LAB14\obj\Debug\net6.0\ref\LAB14.dll
