@@ -1,0 +1,8 @@
+D:\БGTУ\3 сем\ООП\LAB06\bin\Debug\LAB04.exe.config
+D:\БGTУ\3 сем\ООП\LAB06\bin\Debug\LAB04.exe
+D:\БGTУ\3 сем\ООП\LAB06\bin\Debug\LAB04.pdb
+D:\БGTУ\3 сем\ООП\LAB06\obj\Debug\LAB06.csproj.AssemblyReference.cache
+D:\БGTУ\3 сем\ООП\LAB06\obj\Debug\LAB06.csproj.SuggestedBindingRedirects.cache
+D:\БGTУ\3 сем\ООП\LAB06\obj\Debug\LAB06.csproj.CoreCompileInputs.cache
+D:\БGTУ\3 сем\ООП\LAB06\obj\Debug\LAB04.exe
+D:\БGTУ\3 сем\ООП\LAB06\obj\Debug\LAB04.pdb
